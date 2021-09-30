@@ -1,0 +1,64 @@
+
+
+/* pizza-assignment.css | file:///Users/esiwadee/Desktop/bootstrap_practice/css/pizza-assignment.css */
+
+.navbar-home {
+  /* background-color: red; */
+  background-color: #a94444;
+  border: none;
+  border-radius: 0px;
+  margin-bottom: 0px;
+}
+
+/* bootstrap.min.css | file:///Users/esiwadee/Desktop/bootstrap_practice/css/bootstrap.min.css */
+
+a {
+  /* color: #007bff; */
+  /* padding-block: top; */
+  color: white;
+
+
+/* Element | file:///Users/esiwadee/Desktop/bootstrap_practice/pizza-assignment.html# */
+
+.nav {
+  font-size: 19px;
+  line-height: 6px;
+  font-stretch: 105%;
+}
+
+
+
+.navbar-home .nav-nar >li> a {
+	
+	color: #fff;
+}
+
+.navbar-home .nav-bar {
+	color: #fff;
+font-weight: bold;
+}
+
+
+.carousel-inner {
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+	height: 550px;
+}
+
+.about-pizza{
+	margin-top:3rem;
+	margin-bottom:2rem;
+}
+.thumbnail{
+
+
+
+
+$thumbnail-padding:                 .25rem;
+$thumbnail-bg:                      $body-bg;
+$thumbnail-border-width:            $border-width;
+$thumbnail-border-color:            $gray-300;
+$thumbnail-border-radius:           $border-radius;
+$thumbnail-box-shadow:              $box-shadow-sm;
+}

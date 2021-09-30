@@ -1,0 +1,56 @@
+.body{
+	background-color: white;
+
+
+}
+/*
+.allc{
+	margin-left: 60px;
+	border-top-style: solid;
+	border-top-width: 60px;
+border-right-style: solid;
+border-right-width: 60px;
+background-color: white;
+	margin: white;
+}
+*/
+
+.allc{
+	margin-left: 60px;
+	border-top-style: solid;
+	border-top-width: 60px;
+border-right-style: solid;
+border-right-width: 60px;
+background-color: white;
+	margin: white;
+
+.navbar {
+	text-align: left;
+}
+
+.card{
+
+}
+
+.h3 {
+	text-align: center;
+}
+
+
+.d-inline-block{
+margin-left: 1000px;
+}
+
+
+.bluec{
+	background: blue;
+}
+.orangec{
+	color: orange;
+}
+.greenc{
+	color: green;
+}
+.whitec{
+	color: green;
+}
